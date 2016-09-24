@@ -8,5 +8,5 @@ def compute_sum(x,y):
     total=x+y
     return total
     so=compute_sum(6,8)
-    print("the sum is" ,so, "thank you")
+    print("the sum is" ,so, "wow you")
 
